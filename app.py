@@ -14,7 +14,7 @@ quotes = [
     
 ]
 
-st.title("✨Random Quote Generator")
+st.title("Random Quote Generator✨❤")
 
 st.write("Click the button to get a new quoote")
 
